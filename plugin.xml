@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-multidex" version="0.1.2">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-multidex" version="0.1.4">
   <name>Cordova Multi Dex</name>
   <description>Adds the multidex flag to Android builds</description>
 
